@@ -1,0 +1,12 @@
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/bin/Debug/net9.0/Store.Domain.deps.json
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/bin/Debug/net9.0/Store.Domain.dll
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/bin/Debug/net9.0/Store.Domain.pdb
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/Store.Domain.AssemblyInfoInputs.cache
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/Store.Domain.AssemblyInfo.cs
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/Store.Domain.csproj.CoreCompileInputs.cache
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/Store.Domain.sourcelink.json
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/Store.Domain.dll
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/refint/Store.Domain.dll
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/Store.Domain.pdb
+/Users/semirtzada/Documents/lab4-api-store/Store.Domain/obj/Debug/net9.0/ref/Store.Domain.dll

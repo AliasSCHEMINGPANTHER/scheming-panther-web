@@ -1,0 +1,215 @@
+{
+  "Store.Domain.dll": {
+    "/Users/semirtzada/Documents/lab4-api-store/Store.Domain/Item.cs": {
+      "Store.Domain.Item": {
+        "System.String Store.Domain.Item::get_Name()": {
+          "Lines": {
+            "8": 1
+          },
+          "Branches": []
+        },
+        "System.String Store.Domain.Item::get_Description()": {
+          "Lines": {
+            "9": 1
+          },
+          "Branches": []
+        },
+        "System.String Store.Domain.Item::get_Brand()": {
+          "Lines": {
+            "10": 1
+          },
+          "Branches": []
+        },
+        "System.Decimal Store.Domain.Item::get_Price()": {
+          "Lines": {
+            "11": 1
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Store.Domain.Rating> Store.Domain.Item::get_Ratings()": {
+          "Lines": {
+            "12": 1
+          },
+          "Branches": []
+        },
+        "System.Void Store.Domain.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
+          "Lines": {
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 0,
+            "17": 0,
+            "20": 1,
+            "21": 0,
+            "22": 0,
+            "25": 1,
+            "26": 0,
+            "27": 0,
+            "30": 1,
+            "31": 0,
+            "32": 0,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "39": 1
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 15,
+              "Offset": 27,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 20,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 45,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 25,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 25,
+              "Offset": 63,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 30,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 92,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "/Users/semirtzada/Documents/lab4-api-store/Store.Domain/Rating.cs": {
+      "Store.Domain.Rating": {
+        "System.Int32 Store.Domain.Rating::get_Stars()": {
+          "Lines": {
+            "5": 2
+          },
+          "Branches": []
+        },
+        "System.String Store.Domain.Rating::get_UserName()": {
+          "Lines": {
+            "6": 2
+          },
+          "Branches": []
+        },
+        "System.String Store.Domain.Rating::get_Review()": {
+          "Lines": {
+            "7": 2
+          },
+          "Branches": []
+        },
+        "System.Void Store.Domain.Rating::.ctor(System.Int32,System.String,System.String)": {
+          "Lines": {
+            "9": 2,
+            "10": 2,
+            "11": 2,
+            "12": 1,
+            "13": 1,
+            "15": 1,
+            "16": 0,
+            "17": 0,
+            "19": 1,
+            "20": 1,
+            "21": 1,
+            "22": 1
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 11,
+              "Offset": 10,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 11,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 11,
+              "Offset": 21,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 15,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 15,
+              "Offset": 43,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}
